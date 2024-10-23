@@ -79,7 +79,7 @@ const Steps = () => {
                 </span>
               </span>
 
-            //space
+              {/* separator */}
               {i !== 0 ? (
                 <div className='absolute inset-0 hidden w-3 lg:block'>
                   <svg
